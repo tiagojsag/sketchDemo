@@ -12,7 +12,7 @@
     "images": []
   },
   "colorSpace": 0,
-  "currentPageIndex": 0,
+  "currentPageIndex": 1,
   "foreignSymbols": [],
   "layerStyles": {
     "_class": "sharedStyleContainer",
@@ -31,6 +31,11 @@
       "_class": "MSJSONFileReference",
       "_ref_class": "MSImmutablePage",
       "_ref": "pages\/D7379511-4CE5-4476-8C3F-3495FB99827D"
+    },
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages\/0156DA9C-4368-4A97-8991-4CC91C79D583"
     }
   ]
 }
