@@ -1,9 +1,16 @@
 {
+  "22BCBE3D-2753-443E-AC20-7E7BBF78A1C4": {
+    "pageListHeight": 110
+  },
   "3A67EE2E-C1E6-402D-ABCB-BC23CE4542B0": {
     "pageListHeight": -1
   },
   "D7379511-4CE5-4476-8C3F-3495FB99827D": {
-    "scrollOrigin": "{-495, -323}",
+    "scrollOrigin": "{-468, -296}",
     "zoomValue": 2
+  },
+  "0156DA9C-4368-4A97-8991-4CC91C79D583": {
+    "scrollOrigin": "{0, 0}",
+    "zoomValue": 1
   }
 }
